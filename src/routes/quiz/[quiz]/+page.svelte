@@ -117,7 +117,7 @@
   <div class="hidden break-before-avoid opacity-75 print:block">
     <p>
       WebQuiz: a project by <a href="https://bswanson.dev"
-        ><img src="https://bswanson.dev/favicon.svg" width={16} height={16} alt="" class="inline" />
+        ><img src="https://bswanson.dev/icon.svg" width={16} height={16} alt="" class="inline" />
         Brendan Swanson</a>
     </p>
     <p class="underline">https://webquiz.bswanson.dev/</p>

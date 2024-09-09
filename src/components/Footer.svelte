@@ -6,7 +6,7 @@
         <p>
           A project by{" "}<a href="https://bswanson.dev/" target="_blank"
             ><img
-              src="https://bswanson.dev/favicon.svg"
+              src="https://bswanson.dev/icon.svg"
               width={16}
               height={16}
               alt=""

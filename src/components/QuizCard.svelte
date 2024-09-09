@@ -10,6 +10,6 @@
 
 <a href="/quiz/{slug}" class={className}>
   <Button class="w-full">
-    <h3 class="font-bold">{name}</h3>
+    <h3>{name}</h3>
   </Button>
 </a>
